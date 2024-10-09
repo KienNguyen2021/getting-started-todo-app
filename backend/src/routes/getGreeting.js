@@ -5,7 +5,7 @@ add const Greeting:
 */
 
 const GREETINGS = [
-    "Whalecome!",
+    "Welcome!",
     "All hands on deck!",
     "Charting the course ahead!",
 ];
